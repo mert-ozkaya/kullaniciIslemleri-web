@@ -1,6 +1,6 @@
-# JWT kullarak üyelik işlemleri
+# Web üyelik işlemleri
 
--JWT api ile backend çalışması
+-Api ile back-end çalışması
 
 ## How to run
   npm install
